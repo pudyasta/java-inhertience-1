@@ -20,7 +20,8 @@ public class App {
         System.out.println("color : "+ling1.getColor());
         System.out.println("Height : "+ ling1.getHeight());
         System.out.println("Area : "+ling1.getArea());
-        System.out.println("Volume : "+ling1.getVolume()+"\n");
+        System.out.println("Volume : "+ling1.getVolume());
+        System.out.println(ling1.toString()+"\n");
 
         System.out.println("Cylinder 2");
         System.out.println("Radius : "+ling2.getRadius());
@@ -36,7 +37,8 @@ public class App {
         System.out.println("color : "+ling2.getColor());
         System.out.println("Height : "+ ling2.getHeight());
         System.out.println("Area : "+ling2.getArea());
-        System.out.println("Volume : "+ling2.getVolume()+"\n");
+        System.out.println("Volume : "+ling2.getVolume());
+        System.out.println(ling2.toString()+"\n");
 
         System.out.println("Cylinder 3");
         System.out.println("Radius : "+ling3.getRadius());
@@ -52,6 +54,8 @@ public class App {
         System.out.println("color : "+ling3.getColor());
         System.out.println("Height : "+ ling3.getHeight());
         System.out.println("Area : "+ling3.getArea());
-        System.out.println("Volume : "+ling3.getVolume()+"\n");
+        System.out.println("Volume : "+ling3.getVolume());
+        System.out.println(ling3.toString()+"\n");
+
     }
 }

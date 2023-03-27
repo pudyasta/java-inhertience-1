@@ -32,7 +32,7 @@ public class Square extends Rectangle{
 
 //    Method getArea() dan getPerimeter perlu di override karena
 //    attribut yang digunakan untuk side hanya width,
-//    sehingga harus ada penanganan logic karena perbedaan skema skema antara 2 object Rectangle dan Square
+//    sehingga harus ada penanganan logic karena perbedaan skema antara 2 object Rectangle dan Square
 
     @Override
     public double getArea() {

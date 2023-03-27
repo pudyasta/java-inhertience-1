@@ -5,25 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="527d8af8-45c1-44cf-ba50-5b65f297a427" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/circular/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/circular/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/circular/Cylinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/shapes/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/shapes/Rectangle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/shapes/Shape.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/shapes/Square.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/social/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/social/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/social/Staff.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/social/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/org/example/AppTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/circular/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/circular/App.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/circular/Cylinder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/circular/Cylinder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/shapes/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/shapes/Square.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
